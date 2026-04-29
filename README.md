@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###### Copyright © 2025 Code Jackal | Original Course Material by Chris Blakely
 
 ---
@@ -405,3 +406,6 @@ WHERE NOT EXISTS (
 ```
 POSTGRES_DB=db;POSTGRES_PASSWORD=password;POSTGRES_USER=admin_user
 ```
+=======
+# java-spring-microservices
+>>>>>>> 3994ddf3a09ef0b2dbb0c6e8c2acc0275b678ea5
